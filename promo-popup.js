@@ -32,7 +32,7 @@
     // Kalau true, popup HANYA tampil otomatis di tanggal 1-15 tiap bulan
     // (di luar itu, popup tidak akan muncul sama sekali walau enabled=true
     // di config.json). Set false kalau mau kontrol tanggal manual sendiri.
-    restrictToPromoDates: true,
+    restrictToPromoDates: false,
     promoStartDay: 1,
     promoEndDay: 15,
 
